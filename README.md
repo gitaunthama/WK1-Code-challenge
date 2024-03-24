@@ -27,10 +27,10 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone git@github.com:gitaunthama/WK1-Code-challenge.git
 
 # Live Link
-[Git]()
+[Git](https://github.com/gitaunthama/WK1-Code-challenge.git)
 
 ## Technologies used
 HTML
