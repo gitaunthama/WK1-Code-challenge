@@ -1,4 +1,4 @@
-# (CODE CHALLENGE)
+# WEEK 1 CODE CHALLENGE
 
 #### Date, 2024/03/32
 
@@ -8,9 +8,11 @@
 
 ## Description
 1.GRADE
+
   *Grade.js
   <p>This produces a grade depending on the users marks. It uses the assignes grading system.</p>
 2.SPEED
+
   *Speed.js
   <p>This provides demerit point for any speed aove the standard assigned speed.</p>
 3. NET-SALARY
@@ -30,13 +32,15 @@ Git
 Git clone git@github.com:gitaunthama/WK1-Code-challenge.git
 
 # Live Link
-[Live link]
+[Live link](https://github.com/gitaunthama/WK1-Code-challenge.git)
 
 ## Technologies used
-HTML
-CSS
-Github
-Javascript
+<ol>
+
+<li>HTML</li>
+<li>CSS</li>
+<li>Github</li>
+<li>Javascript</li>
 
 ## Support and contact details
 [Email](https://mail.google.com/mail/u/1/#inbox)
