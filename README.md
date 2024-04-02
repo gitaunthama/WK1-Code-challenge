@@ -2,17 +2,18 @@
 
 #### Date, 2024/03/32
 
-#### By *Grace Gitau*
+## Author
+[Grace Gitau](https://github.com/gitaunthama/Personal-Porfolio.git)
 
 
 ## Description
-GRADE
+1.GRADE
   *Grade.js
   <p>This produces a grade depending on the users marks. It uses the assignes grading system.</p>
-SPEED
+2.SPEED
   *Speed.js
   <p>This provides demerit point for any speed aove the standard assigned speed.</p>
-    NET-SALARY
+3. NET-SALARY
 
   *Net-salary.js
 
@@ -26,11 +27,10 @@ You use git clone to be able to download the documents in the GitHub and work wi
 Git
 
 ### Installation instruction
-```
 Git clone git@github.com:gitaunthama/WK1-Code-challenge.git
 
 # Live Link
-[Git](https://github.com/gitaunthama/WK1-Code-challenge.git)
+[Live link]
 
 ## Technologies used
 HTML
@@ -39,11 +39,11 @@ Github
 Javascript
 
 ## Support and contact details
-https://github.com/gitaunthama
+[Email](https://mail.google.com/mail/u/1/#inbox)
 
-### License
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+## License
+MIT License
+copy right
 
 
 
